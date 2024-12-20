@@ -6,9 +6,9 @@ A new Flutter project.
 
 This project is a starting point for a Flutter application.
 
-| ![screenshot 1](screenshots/1.jpg) | ![screenshot 2](screenshots/2.jpg) | | ![screenshot 3](screenshots/3.jpg) |
-| ![screenshot 4](screenshots/4.jpg) | ![screenshot 5](screenshots/5.jpg) | | ![screenshot 6](screenshots/6.jpg) |
-| ![screenshot 7](screenshots/7.jpg) | | ![screenshot 8](screenshots/8.jpg) |
+| ![screenshot 1](screenshots/1.jpeg) | ![screenshot 2](screenshots/2.jpeg) |  ![screenshot 3](screenshots/3.jpeg) |
+| ![screenshot 4](screenshots/4.jpeg) | ![screenshot 5](screenshots/5.jpeg) |  ![screenshot 6](screenshots/6.jpeg) |
+| ![screenshot 7](screenshots/7.jpeg) | ![screenshot 8](screenshots/8.png)  |  ![screenshot 9](screenshots/9.png) |
 
 A few resources to get you started if this is your first Flutter project:
 
